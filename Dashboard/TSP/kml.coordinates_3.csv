@@ -1,0 +1,4 @@
+Location,lon,lat,latlon,Address,Order.No.,Quantity(CBM),Location Type
+DC,79.8574715,6.8784706,6.8784706+79.8574715,Address 1,1000,0.1,DC
+Point2,79.8705393,6.8834768,6.8834768+79.8705393,Address 2,1001,0.01,customer
+Point3,79.8724168,6.8775972,6.8775972+79.8724168,Address 3,1002,0.25,customer
